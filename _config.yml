@@ -86,13 +86,8 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
+    - GitHub
     - Twitter
-    - YouTube
     - RSS
 
 _comments:
